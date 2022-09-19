@@ -3,7 +3,8 @@
 
 # Introduction
 *This is a C++ Tetris game where two players can follow the classic Tetris rules and take turns to compete.* \
-*Check out demo doc here: [Demo](https://github.com/calvinjujuis/TetrisDuel/blob/main/readme/Demo.pdf)* \
+*Check out demo doc here: [Demo](https://github.com/ChengyuJin/Biquadris/files/9595888/Demo.1.pdf)* \
+
 <img width="504" alt="Demo Gameplay" src="https://user-images.githubusercontent.com/85118325/190941889-b3c4eb75-134a-4edf-9900-bec44808edf5.png">\
 
 # Overview
