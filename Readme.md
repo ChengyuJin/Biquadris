@@ -4,10 +4,7 @@
 # Introduction
 *This is a C++ Tetris game where two players can follow the classic Tetris rules and take turns to compete.* \
 *Check out demo doc here: [Demo](https://github.com/calvinjujuis/TetrisDuel/blob/main/readme/Demo.pdf)* \
-<img src="https://github.com/calvinjujuis/TetrisDuel/blob/main/readme/Demo%20Gameplay.png" width="400" height="420" /> \
-*See UML diagram here:* \
-<img src="https://github.com/calvinjujuis/TetrisDuel/blob/main/readme/UML%20Diagram.jpg" width="700" height="466" />
-\
+<img width="504" alt="Demo Gameplay" src="https://user-images.githubusercontent.com/85118325/190941889-b3c4eb75-134a-4edf-9900-bec44808edf5.png">\
 
 # Overview
 The program starts from the main function where all the commands are read in. Then, it calls the corresponding methods from the Controller class.  
